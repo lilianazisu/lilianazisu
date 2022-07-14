@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Liliana Zisu
-- 👀 I’m interested in C#, PHP, Python, C++m HTML/CSS
+- 👀 I’m interested in C#, PHP, Python, C++, HTML/CSS
 - 🌱 I’m currently learning languages quantum computing
 - 📫 How to reach me liliana_zisu@yahoo.com
 
